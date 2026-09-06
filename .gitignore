@@ -1,0 +1,15 @@
+# Local WordPress bootstrap overrides
+.wp-root
+*.local.php
+
+# Script output
+*.log
+out/
+tmp/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

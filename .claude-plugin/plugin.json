@@ -1,0 +1,22 @@
+{
+  "name": "claude-elementor-pro",
+  "description": "Build WordPress sites with native Elementor Pro from a product-backlog folder. Reads the backlog, maps each design block to a Pro widget, builds with Theme Builder and dynamic content, verifies against the mockups with Playwright at three widths, and keeps Custom CSS to the cases where the panel genuinely cannot do the job.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Faisal Nandak",
+    "url": "https://github.com/faisalnandak"
+  },
+  "homepage": "https://github.com/faisalnandak/claude-elementor-pro",
+  "repository": "https://github.com/faisalnandak/claude-elementor-pro",
+  "license": "MIT",
+  "keywords": [
+    "wordpress",
+    "elementor",
+    "elementor-pro",
+    "theme-builder",
+    "acf",
+    "playwright",
+    "pixel-perfect",
+    "design-to-code"
+  ]
+}
